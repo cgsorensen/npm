@@ -1,6 +1,6 @@
 {
-	"author": "Christian Sorensen",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Christian Sorensen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
